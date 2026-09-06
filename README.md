@@ -1,38 +1,63 @@
-<!-- ========================================================= -->
-<!--              CYBER SECURITY THEME PROFILE                -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=180&section=header&text=UDIN&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=root@udin:~%23%20whoami&descAlignY=58&descSize=18" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Initializing+system...;%3E+Access+granted+%E2%9C%93;%3E+Software+Developer+%7C+Web+%26+Mobile;%3E+Laravel+%2F+PHP+%2F+Flutter+%2F+MySQL;%3E+status%3A+ONLINE_" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2" />
-
-<table>
-<tr>
-<td width="140" align="center">
-<img src="https://api.dicebear.com/7.x/bottts/svg?seed=udin&backgroundColor=0d1117" width="120" style="border-radius:50%;border:2px solid #00FF41;" />
-</td>
-<td>
-
-**Udin**
-`@username-kamu`
-
-Software Developer | Web & Mobile Developer
-Laravel • PHP • Flutter • MySQL | Freelancer
-
-📍 Bandung, Indonesia
-🔗 linkedin.com/in/username-kamu
-✉️ email@contoh.com
-
-</td>
-</tr>
-</table>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="990" height="468.8" viewBox="0 0 990 468.8" role="img" aria-label="ASCII GitHub profile card for abiww1920">
+  <rect x="0.5" y="0.5" width="989" height="467.8" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="28" y="34.6" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                         _-----___</text>
+  <text x="28" y="44.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                       \g@@oo@@oo@oog/.</text>
+  <text x="28" y="53.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                     \\@@@@@ooo@ooo@o@o/</text>
+  <text x="28" y="63.400000000000006" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                     |@@@@@@@@@o@ooooo@o//</text>
+  <text x="28" y="73" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                    |@@@@@@@@@@@@@@oo@o@o/.</text>
+  <text x="28" y="82.6" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                    |@@@@@@@@@@@@@@@@o@o@o|</text>
+  <text x="28" y="92.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                    |@@@@@@@@@@@@@@@@@@@@oo|</text>
+  <text x="28" y="101.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                        ___._xx/. _\@@@@@@oooUQ@@@@@@@@@@o@</text>
+  <text x="28" y="111.39999999999999" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                   __uoooxooogxxogooo@@@@@oo@oo@@ooo@@@@Q@\</text>
+  <text x="28" y="121" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                \gUxxxxxxoxoooooooooooooooooooooooooo}^ [\</text>
+  <text x="28" y="130.6" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">        ___-__;[1xoooxxoooooooooooo@oooooooooooooooo|</text>
+  <text x="28" y="140.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">  ___jjjjjj1oxoox2qooooooooooo@@@ooo@o@@@@@ooooooop-`</text>
+  <text x="28" y="149.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jxjjjjjjjjjxxgpxoooooooooo@@ooo@@@o@@@op--?/@o@o\\</text>
+  <text x="28" y="159.4" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">xxxxxjjjjjjxxo@gxoooo@@@@@@@ooU@@@gggo@|    &quot;-\</text>
+  <text x="28" y="169" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooxxxxjjjjxQ@@oooo@@@@@@@e|;g@ZUUQ@@|</text>
+  <text x="28" y="178.6" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">ooooooooxxxxxjjaQUUX$@@@@@ogxf~'  :   /Q                         ..</text>
+  <text x="28" y="188.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">xxoooooooooxxxjjxx;   '-^^-`  ::jj:;    `                       vsc_u.</text>
+  <text x="28" y="197.79999999999998" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjxxooooooooxxxxjxj_          '::_.                        _j__uix)xj</text>
+  <text x="28" y="207.4" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">:jjjjxxoooooooooxxxxxx_._.:_:   :.:! _;jc             ._--uygjx1a;xxxx:</text>
+  <text x="28" y="217" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8"> ::jjjjjxxxoooooooxxxxxxxc)     ''':`''-       _--_jgoxogoqoVxxxu-c:`</text>
+  <text x="28" y="226.6" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">    ':jjjjjxxxxxoooooxxxxxxj_:___.     .___;uoxpoqgxoooawoxoouox`</text>
+  <text x="28" y="236.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">      :::jjjjjjxq@@g?nooxxxxxxaUo@guoxxpxgqoqxopoawwxxxvf--'</text>
+  <text x="28" y="245.79999999999998" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">         ':jjjjji@@@pu_)Yoxxxxxjj1woooqqqqgoxwwxxxof~</text>
+  <text x="28" y="255.39999999999998" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">            ':jjjopsqxxxxjooxxxxxjjjjoowI==!!'--'</text>
+  <text x="28" y="265" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">               :!ogjzpjxxxoooxxxxxujo}'::xjc</text>
+  <text x="28" y="274.6" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                 |@|l[jjxxggooxooooox|   c:!</text>
+  <text x="28" y="284.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                 |@|/;cj\@@@@@gxooxoo|     : :</text>
+  <text x="28" y="293.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                  /opogi@@@@@@@gg@gg@` :_j: :</text>
+  <text x="28" y="303.4" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                :  |@@oJ@g@@@o@@@@@\\    '' :             : : :::</text>
+  <text x="28" y="313" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">              :     qoU-@o@o@@@@@@\   : ::_j: : .::::::::  :::</text>
+  <text x="28" y="322.59999999999997" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                    :   //@@@@@\nj:___:::j:::::::</text>
+  <text x="28" y="332.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">   :                 : :  !+v=jjjjj:::::::::::::::</text>
+  <text x="28" y="341.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">     :    :  :   : :        ::j-'::::::::::::::</text>
+  <text x="28" y="351.4" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                   :..   : :::     :::::::::::</text>
+  <text x="28" y="361" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">:  :  : :        \ijxu. : ::`      ::j:j:::::                   :::   ::</text>
+  <text x="28" y="370.59999999999997" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">':            :_jjxy+-: :::    __jxjjjjjjj:::          ::       ::    ::</text>
+  <text x="28" y="380.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8"> ':            jzx\  : ::     xooxj::::j:::jj:                 ::</text>
+  <text x="28" y="389.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">   ':          :   : ::`       /{xjj::j:jjjjjj:.              :::: :</text>
+  <text x="28" y="399.4" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">     ':.: : : : : ::'            '&quot;sxjj;jjjjj=^`              ::::: :::</text>
+  <text x="28" y="409" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">        '''    ''`                   --&quot;!!:!'                 ::::::  :</text>
+  <text x="28" y="418.59999999999997" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                                              ::::: ::</text>
+  <text x="28" y="428.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                                               ::::: :</text>
+  <text x="28" y="437.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                                              ::: :  :</text>
+  <text x="405.59999999999997" y="79.4" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> abiww1920@github </tspan><tspan fill="#d0d7de">───────────────────────────────────────</tspan></text>
+  <text x="405.59999999999997" y="99.4" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Uptime: </tspan><tspan fill="#8c959f">.....................</tspan><tspan fill="#24292f"> 1 year, 3 months, 22 days</tspan></text>
+  <text x="405.59999999999997" y="119.4" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Languages: </tspan><tspan fill="#8c959f">........</tspan><tspan fill="#24292f"> HTML 56%, JavaScript 16%, Blade 11%</tspan></text>
+  <text x="405.59999999999997" y="159.4" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> Contact </tspan><tspan fill="#d0d7de">────────────────────────────────────────────────</tspan></text>
+  <text x="405.59999999999997" y="179.4" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. GitHub: </tspan><tspan fill="#8c959f">..........................</tspan><tspan fill="#24292f"> github.com/abiww1920</tspan></text>
+  <text x="405.59999999999997" y="219.4" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> GitHub Stats </tspan><tspan fill="#d0d7de">───────────────────────────────────────────</tspan></text>
+  <text x="405.59999999999997" y="239.4" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Repos: </tspan><tspan fill="#8c959f">...............</tspan><tspan fill="#0550ae"> 4</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Stars: </tspan><tspan fill="#8c959f">...............</tspan><tspan fill="#0550ae"> 0</tspan></text>
+  <text x="405.59999999999997" y="259.4" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Forks: </tspan><tspan fill="#8c959f">...............</tspan><tspan fill="#0550ae"> 0</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Followers: </tspan><tspan fill="#8c959f">...........</tspan><tspan fill="#0550ae"> 0</tspan></text>
+  <text x="405.59999999999997" y="279.4" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Commits: </tspan><tspan fill="#8c959f">............</tspan><tspan fill="#0550ae"> 12</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Contributed: </tspan><tspan fill="#8c959f">.........</tspan><tspan fill="#0550ae"> 0</tspan></text>
+  <text x="405.59999999999997" y="299.4" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. PRs: </tspan><tspan fill="#8c959f">.................</tspan><tspan fill="#0550ae"> 0</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Issues: </tspan><tspan fill="#8c959f">..............</tspan><tspan fill="#0550ae"> 0</tspan></text>
+  <text x="405.59999999999997" y="319.4" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Top repo: </tspan><tspan fill="#8c959f">........................</tspan><tspan fill="#24292f"> M-Abi-Pebriana (0 ★)</tspan></text>
+  <text x="405.59999999999997" y="359.4" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> Last 12 Months </tspan><tspan fill="#d0d7de">─────────────────────────────────────────</tspan></text>
+  <text x="405.59999999999997" y="379.4" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Contributions: </tspan><tspan fill="#8c959f">......</tspan><tspan fill="#0550ae"> 16</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Reviews: </tspan><tspan fill="#8c959f">.............</tspan><tspan fill="#0550ae"> 0</tspan></text>
+  <text x="405.59999999999997" y="399.4" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#2da44e">            ▅▃                                     ▇ █</tspan></text>
+</svg>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2" />
 
 ## `[ TECHNICAL.SKILLS ]`
