@@ -1,100 +1,182 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1125" height="536" viewBox="0 0 1125 536" role="img" aria-label="ASCII GitHub profile card for abiww1920" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjODEzZjVkYi03N2FkLTQ0N2MtODI5NS0xNzQyZDI0OGYyMTAAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKsM7v+O28/LyyZ8ipAXqooAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxM2NmMjhlYS01OTc2LTQwMTAtYmEyYi1mNzM2MjFmMTBkZDRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoid8g4Hqg4YoCDfduXtg9bAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg6IsrwRTm1Pa9cFxqTxIwB3sk3MVAMrUTEaSwp1jSNQ6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOO5G68LRnMldjNfbjUqiWYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBG0YppSg0RMwAw2W9SnnTSv3bMw/t4vvCiPLpT9H1u0GRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmM4MTNmNWRiLTc3YWQtNDQ3Yy04Mjk1LTE3NDJkMjQ4ZjIxMC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjE5YWUzZDg3LTI5MTQtNDlhMS1iZWI5LWM4NTE5N2RkNzA3NHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDoiyvBFObU9r1wXGpPEjAHeyTcxUAytRMRpLCnWNI1DqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggyjAACmKHsNkKtVjUSsR+sbupc5BRem3XTk9B18bQ/3GiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggFYwM435Cf5c0Mt8yHcBhdJbPvNCvy0JfGD0jLjarsWt0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQG721QW/rjqbs3CzNKj2XWgqMTgnB5jWu5UDoumCL18apy7juaK6jqy9k9A/gdVtJ9LRfQXPgAi1cz+cz5swZyY=</c2pa:manifest></metadata>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="1000" height="500">
   <defs>
-    <clipPath id="asciiClip">
-      <rect x="20" y="20" width="515" height="495" />
-    </clipPath>
-
-    <linearGradient id="beamGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#39d0ff" stop-opacity="0" />
-      <stop offset="40%" stop-color="#39d0ff" stop-opacity="0.08" />
-      <stop offset="50%" stop-color="#7CE8FF" stop-opacity="1" />
-      <stop offset="60%" stop-color="#39d0ff" stop-opacity="0.08" />
-      <stop offset="100%" stop-color="#39d0ff" stop-opacity="0" />
+    <!-- Gradient untuk text yang beranimasi -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#60a5fa;stop-opacity:1">
+        <animate attributeName="stop-color" values="#60a5fa;#34d399;#818cf8;#60a5fa" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#34d399;stop-opacity:1">
+        <animate attributeName="stop-color" values="#34d399;#818cf8;#60a5fa;#34d399" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#818cf8;stop-opacity:1">
+        <animate attributeName="stop-color" values="#818cf8;#60a5fa;#34d399;#818cf8" dur="4s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
-
-    <filter id="beamGlow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="8" result="blur1" />
-      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur2" />
+    
+    <!-- Gradient untuk border listrik -->
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1"/>
+    </linearGradient>
+    
+    <!-- Glow filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
       <feMerge>
-        <feMergeNode in="blur1" />
-        <feMergeNode in="blur2" />
-        <feMergeNode in="SourceGraphic" />
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Strong glow untuk text -->
+    <filter id="textGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
-
-  <rect x="0.5" y="0.5" width="1124" height="535" rx="8" fill="#0d1117" stroke="#30363d"/>
-  <text x="28" y="34.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="44.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="53.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj!j:::!jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="63.400000000000006" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj::: : : :: :::!=vjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="73" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj::                :::jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="82.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjx=:::::  :::::::: :::    :::!=jxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="92.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj!'-::::::jjj:jjj::::jjjj:::  :::::jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="101.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj::     ::|jjjxjuxxxxjjjjjjjj:::  :::::jjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="111.39999999999999" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj:'      \jxoooooooxxxxxxxxxxxjjjj:     ::jjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="121" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj:::    .\oaUXXAX5wooooooxxxo1xxxjjj:     :jjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="130.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj:   .\xogguujj;jjxxoooxj::_j:jjjjjjj.   ::jjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="140.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj: : |\o@@@@@@ooxxxxoooxxjxxxooooxxuxxj    jjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="149.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj:   |@@o@o@QUenxxxxoooxxxxxxoooooooooo|  ::jjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="159.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj:::|@@oxjj:: x_|oo@@ooxoy:_; :j!=xxoo|  :jjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="169" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj:|g@@@@@gguuuooo@@@@@ooxxuxj_jjuxooo|::jjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="178.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj|@@@@@@@@@@@@@@@@@@@@oooooooo@o@o@o|:jjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="188.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjuux@@@@@@@@@@@@@@@$oooo@oo@@@@@o@o@o@|jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="197.79999999999998" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjxxxo@@@@@@@@@@@o$r'|xx)'/oo@@@@@@o@oo@xxxvsjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="207.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjxxoxg@@@@@@@@@@@pjxoooxxjuo@@@o@@oo@ooxxxjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="217" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjqxox@@@@@@o@@@@@@ggooooxxoo@@oooooooooujxxjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="226.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjo@gg@@@@@@@@@$oUIxxxxxjxxxxaooooooo@pxjxxjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="236.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/@@@@@@@oooxxjjjj__j;;;j:!!jxxoooooooooocjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="245.79999999999998" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj|@@@oooxxxxxxxxxxxxxxjjjjxxxooowjnxjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="255.39999999999998" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjQ@@oxxxxxxxxxjjjjxxxxjjjxxxoopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="265" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj|@@@xxxxxxxoooxuuxxxjjjjxxxoojjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="274.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj|@@ooxxoooooooooxxxxxjjxxxojjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="284.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj@@@oooxxxxxxxxxxxxxjjjxxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="293.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj@oooxxxjjjjjjjjjjjjjjjxxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="303.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj@oxxxjjj::::::::jjjjjjjxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="313" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj@oxxjjjjj:::::::j:jjjjxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="322.59999999999997" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj|@@oxxxxxxxxxxjjjjjjjxxxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="332.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjiji@@@oooxxxxxxxjjjxxxxxxxx:jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="341.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjxjj[$@@oooooxxxxxxxxxxxxxx'::jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="351.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjxjj::j/$oooxoooooxxxxxxxx!:::::jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="361" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjxj::::::|vxxxxxxxxxxxxj!:    ::j:jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="370.59999999999997" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj:j:jj::::::::::!jjxxxjjjj!:       ::::::!:jjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="380.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjjjjjj::::jjj:::::::::::::!!jjj)': : :::::   :  : ::::jjjjjjjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="389.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjjjjjj::::::jjj:j:j:j::::::::`       : :   : ::: :::    : :::::jjjjjjjjjjjjjjjjjjj</text>
-  <text x="28" y="399.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjjjjjj::::j:jjjj:jj::j:j:::::`            :: : : : : :::  :   :::::::jjjjjjjjjjjjjjj</text>
-  <text x="28" y="409" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjjjj:jjj::::::::jjj:j::j:j:::j:`               : :  : : : : :       :   :::::jjjjjjjjjjj</text>
-  <text x="28" y="418.59999999999997" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjjjjj::jjjj:::::jjjj:::::::::jj:                     :   : : : : :      ::: ::::::jjjjjjjjj</text>
-  <text x="28" y="428.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjjjjj:j:::j:::: :::jjj:::::::::::     ::: ::::::            :  : : : :     : :::::::::::jjjjjj</text>
-  <text x="28" y="437.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjj!:j:::::::j::  :::j::::::::::::::  :::::::::::: :         :  :  : : :      :::::: :::::::jjjjj</text>
-  <text x="28" y="447.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjj:::::::::::::  :::::j::::::::::::::::::::::     :: : :      :  :      :      :::::\c.::: ::jjjj</text>
-  <text x="28" y="457" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjj::::::::: :::  :::::::::::::::::::::::::::: :   :::::::: : : :   : : : ::      :::-/x+:   ::jjjj</text>
-  <text x="28" y="466.59999999999997" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjj): :::::: ::    :::::::::::::::::::::::::::::::::::::::::      :       ::::      ::  ` : :   :jjj</text>
-  <text x="28" y="476.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjj`  ::::: ::    ::::::::::::::::::::::::::::: :  :::::::::::::   : : :  ::::: : :       ::    :jjj</text>
-  <text x="28" y="485.79999999999995" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jj:   :::::: :    ::::::::::::::::::::::::::::::  :::::::::: :::::: :   : ::::::: : :     :     ::jj</text>
-  <text x="28" y="495.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jj:    :::  :    ::::  :: :::::::::::::::::::: :::::::: ::: ::::::::::: : :::::::: :      :     ::jj</text>
-  <text x="28" y="505" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">j:    :          ::   :: ::::::::::::::::::::  :::::::::::: ::::::::::::::::::   :               ::j</text>
-
-  <g clip-path="url(#asciiClip)">
-    <g filter="url(#beamGlow)">
-      <rect x="20" y="0" width="515" height="70" fill="url(#beamGrad)">
-        <animate attributeName="y" from="-70" to="515" dur="3.2s" repeatCount="indefinite" />
-      </rect>
-    </g>
+  
+  <!-- Background -->
+  <rect width="1000" height="500" fill="#0a0a0f" rx="20"/>
+  
+  <!-- Partikel bintang (animated) -->
+  <g fill="#ffffff" opacity="0.3">
+    <circle cx="100" cy="80" r="1">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="150" r="1.5">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="100" r="1">
+      <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="120" r="1">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="850" cy="200" r="1.5">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="80" r="1">
+      <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="150" cy="350" r="1">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="380" r="1.5">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
   </g>
-
-  <text x="540" y="113" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> abiww1920@github </tspan><tspan fill="#3d444d">───────────────────────────────────────</tspan></text>
-  <text x="540" y="133" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">.....................</tspan><tspan fill="#c9d1d9"> 1 year, 3 months, 22 days</tspan></text>
-  <text x="540" y="153" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Languages: </tspan><tspan fill="#484f58">........</tspan><tspan fill="#c9d1d9"> HTML 56%, JavaScript 16%, Blade 11%</tspan></text>
-  <text x="540" y="193" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Contact </tspan><tspan fill="#3d444d">────────────────────────────────────────────────</tspan></text>
-  <text x="540" y="213" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. GitHub: </tspan><tspan fill="#484f58">..........................</tspan><tspan fill="#c9d1d9"> github.com/abiww1920</tspan></text>
-  <text x="540" y="253" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> GitHub Stats </tspan><tspan fill="#3d444d">───────────────────────────────────────────</tspan></text>
-  <text x="540" y="273" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 4</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 0</tspan></text>
-  <text x="540" y="293" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Forks: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 0</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 0</tspan></text>
-  <text x="540" y="313" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">............</tspan><tspan fill="#79c0ff"> 12</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Contributed: </tspan><tspan fill="#484f58">.........</tspan><tspan fill="#79c0ff"> 0</tspan></text>
-  <text x="540" y="333" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. PRs: </tspan><tspan fill="#484f58">.................</tspan><tspan fill="#79c0ff"> 0</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Issues: </tspan><tspan fill="#484f58">..............</tspan><tspan fill="#79c0ff"> 0</tspan></text>
-  <text x="540" y="353" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Top repo: </tspan><tspan fill="#484f58">........................</tspan><tspan fill="#c9d1d9"> M-Abi-Pebriana (0 ★)</tspan></text>
-  <text x="540" y="393" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Last 12 Months </tspan><tspan fill="#3d444d">─────────────────────────────────────────</tspan></text>
-  <text x="540" y="413" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Contributions: </tspan><tspan fill="#484f58">......</tspan><tspan fill="#79c0ff"> 16</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Reviews: </tspan><tspan fill="#484f58">.............</tspan><tspan fill="#79c0ff"> 0</tspan></text>
-  <text x="540" y="433" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#39d353">            ▅▃                                     ▇ █</tspan></text>
+  
+  <!-- Border listrik animated (multiple layers) -->
+  <g stroke="url(#borderGradient)" stroke-width="2" fill="none" filter="url(#glow)" opacity="0.8">
+    <path d="M 30,30 Q 50,10 100,15 L 200,20 Q 400,35 500,25 L 600,20 Q 750,30 850,25 L 900,20 Q 960,15 970,30 L 975,100 Q 980,150 975,200 L 970,300 Q 975,400 970,450 Q 965,485 950,490 L 900,495 Q 800,500 700,495 L 500,490 Q 300,495 200,490 L 100,485 Q 35,480 30,470 L 25,400 Q 20,300 25,200 L 20,100 Q 15,50 30,30">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite" values="
+        M 30,30 Q 50,10 100,15 L 200,20 Q 400,35 500,25 L 600,20 Q 750,30 850,25 L 900,20 Q 960,15 970,30 L 975,100 Q 980,150 975,200 L 970,300 Q 975,400 970,450 Q 965,485 950,490 L 900,495 Q 800,500 700,495 L 500,490 Q 300,495 200,490 L 100,485 Q 35,480 30,470 L 25,400 Q 20,300 25,200 L 20,100 Q 15,50 30,30;
+        M 35,25 Q 55,15 105,20 L 205,25 Q 405,30 505,20 L 605,25 Q 755,25 855,20 L 905,25 Q 965,20 975,35 L 980,105 Q 985,155 980,205 L 975,305 Q 980,405 975,455 Q 970,490 955,495 L 905,500 Q 805,505 705,500 L 505,495 Q 305,500 205,495 L 105,490 Q 40,485 35,475 L 30,405 Q 25,305 30,205 L 25,105 Q 20,55 35,25;
+        M 30,30 Q 50,10 100,15 L 200,20 Q 400,35 500,25 L 600,20 Q 750,30 850,25 L 900,20 Q 960,15 970,30 L 975,100 Q 980,150 975,200 L 970,300 Q 975,400 970,450 Q 965,485 950,490 L 900,495 Q 800,500 700,495 L 500,490 Q 300,495 200,490 L 100,485 Q 35,480 30,470 L 25,400 Q 20,300 25,200 L 20,100 Q 15,50 30,30"/>
+    </path>
+  </g>
+  
+  <!-- Border listrik layer 2 (cyan) -->
+  <g stroke="#06b6d4" stroke-width="1.5" fill="none" filter="url(#glow)" opacity="0.6">
+    <path d="M 40,40 Q 60,25 110,30 L 210,35 Q 410,40 510,35 L 610,30 Q 760,40 860,35 L 910,30 Q 960,35 965,50 L 970,110 Q 975,160 970,210 L 965,310 Q 970,410 965,460 Q 960,485 950,485 L 890,490 Q 790,495 690,490 L 490,485 Q 290,490 190,485 L 90,480 Q 45,475 40,460 L 35,390 Q 30,290 35,190 L 30,90 Q 25,55 40,40">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite" values="
+        M 40,40 Q 60,25 110,30 L 210,35 Q 410,40 510,35 L 610,30 Q 760,40 860,35 L 910,30 Q 960,35 965,50 L 970,110 Q 975,160 970,210 L 965,310 Q 970,410 965,460 Q 960,485 950,485 L 890,490 Q 790,495 690,490 L 490,485 Q 290,490 190,485 L 90,480 Q 45,475 40,460 L 35,390 Q 30,290 35,190 L 30,90 Q 25,55 40,40;
+        M 45,35 Q 65,30 115,35 L 215,40 Q 415,45 515,40 L 615,35 Q 765,45 865,40 L 915,35 Q 965,40 970,55 L 975,115 Q 980,165 975,215 L 970,315 Q 975,415 970,465 Q 965,490 955,490 L 895,495 Q 795,500 695,495 L 495,490 Q 295,495 195,490 L 95,485 Q 50,480 45,465 L 40,395 Q 35,295 40,195 L 35,95 Q 30,60 45,35;
+        M 40,40 Q 60,25 110,30 L 210,35 Q 410,40 510,35 L 610,30 Q 760,40 860,35 L 910,30 Q 960,35 965,50 L 970,110 Q 975,160 970,210 L 965,310 Q 970,410 965,460 Q 960,485 950,485 L 890,490 Q 790,495 690,490 L 490,485 Q 290,490 190,485 L 90,480 Q 45,475 40,460 L 35,390 Q 30,290 35,190 L 30,90 Q 25,55 40,40"/>
+    </path>
+  </g>
+  
+  <!-- Border listrik layer 3 (purple) -->
+  <g stroke="#8b5cf6" stroke-width="1" fill="none" filter="url(#glow)" opacity="0.5">
+    <path d="M 50,50 Q 70,40 120,45 L 220,50 Q 420,55 520,50 L 620,45 Q 770,55 870,50 L 920,45 Q 960,50 960,60 L 965,120 Q 970,170 965,220 L 960,320 Q 965,420 960,465 Q 955,480 945,480 L 880,485 Q 780,490 680,485 L 480,480 Q 280,485 180,480 L 80,475 Q 55,470 50,455 L 45,380 Q 40,280 45,180 L 40,80 Q 35,60 50,50">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite" values="
+        M 50,50 Q 70,40 120,45 L 220,50 Q 420,55 520,50 L 620,45 Q 770,55 870,50 L 920,45 Q 960,50 960,60 L 965,120 Q 970,170 965,220 L 960,320 Q 965,420 960,465 Q 955,480 945,480 L 880,485 Q 780,490 680,485 L 480,480 Q 280,485 180,480 L 80,475 Q 55,470 50,455 L 45,380 Q 40,280 45,180 L 40,80 Q 35,60 50,50;
+        M 55,45 Q 75,45 125,50 L 225,55 Q 425,60 525,55 L 625,50 Q 775,60 875,55 L 925,50 Q 965,55 965,65 L 970,125 Q 975,175 970,225 L 965,325 Q 970,425 965,470 Q 960,485 950,485 L 885,490 Q 785,495 685,490 L 485,485 Q 285,490 185,485 L 85,480 Q 60,475 55,460 L 50,385 Q 45,285 50,185 L 45,85 Q 40,65 55,45;
+        M 50,50 Q 70,40 120,45 L 220,50 Q 420,55 520,50 L 620,45 Q 770,55 870,50 L 920,45 Q 960,50 960,60 L 965,120 Q 970,170 965,220 L 960,320 Q 965,420 960,465 Q 955,480 945,480 L 880,485 Q 780,490 680,485 L 480,480 Q 280,485 180,480 L 80,475 Q 55,470 50,455 L 45,380 Q 40,280 45,180 L 40,80 Q 35,60 50,50"/>
+    </path>
+  </g>
+  
+  <!-- Sudut corner brackets (animated) -->
+  <g stroke="#06b6d4" stroke-width="2" fill="none" opacity="0.8">
+    <path d="M 60,80 L 60,60 L 80,60">
+      <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 940,60 L 920,60 L 920,80">
+      <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 80,440 L 60,440 L 60,420">
+      <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2s" begin="1s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 920,420 L 920,440 L 940,440">
+      <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  
+  <!-- Lightning effects di sisi kiri dan kanan -->
+  <g stroke="#06b6d4" stroke-width="1.5" fill="none" filter="url(#glow)" opacity="0.7">
+    <path d="M 120,150 L 140,180 L 130,210 L 150,240 L 135,270 L 145,300">
+      <animate attributeName="opacity" values="0.7;0.3;0.7" dur="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="d" values="
+        M 120,150 L 140,180 L 130,210 L 150,240 L 135,270 L 145,300;
+        M 125,150 L 145,180 L 135,210 L 155,240 L 140,270 L 150,300;
+        M 120,150 L 140,180 L 130,210 L 150,240 L 135,270 L 145,300" dur="1.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 880,140 L 860,170 L 870,200 L 850,230 L 865,260 L 855,290">
+      <animate attributeName="opacity" values="0.7;0.3;0.7" dur="1.8s" begin="0.3s" repeatCount="indefinite"/>
+      <animate attributeName="d" values="
+        M 880,140 L 860,170 L 870,200 L 850,230 L 865,260 L 855,290;
+        M 885,140 L 865,170 L 875,200 L 855,230 L 870,260 L 860,290;
+        M 880,140 L 860,170 L 870,200 L 850,230 L 865,260 L 855,290" dur="1.8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  
+  <!-- Text "ABIWW1920" kecil di atas -->
+  <text x="500" y="180" text-anchor="middle" font-family="monospace" font-size="12" fill="#06b6d4" opacity="0.8" letter-spacing="3">
+    ‹ ABIWW1920 ›
+  </text>
+  
+  <!-- Main username dengan gradient dan glow -->
+  <text x="500" y="260" text-anchor="middle" font-family="'Courier New', monospace" font-size="72" font-weight="bold" fill="url(#textGradient)" filter="url(#textGlow)">
+    abiww1920
+    <animate attributeName="opacity" values="1;0.9;1" dur="3s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Garis putus-putus di bawah username -->
+  <g stroke="#8b5cf6" stroke-width="2" fill="none" opacity="0.6">
+    <line x1="350" y1="280" x2="650" y2="280">
+      <animate attributeName="x1" values="350;355;350" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="650;645;650" dur="2s" repeatCount="indefinite"/>
+    </line>
+  </g>
+  
+  <!-- Subtitle -->
+  <text x="500" y="315" text-anchor="middle" font-family="monospace" font-size="16" fill="#94a3b8" letter-spacing="2">
+    Frontend or full-stack engineer
+  </text>
+  
+  <!-- GitHub text -->
+  <text x="500" y="380" text-anchor="middle" font-family="monospace" font-size="18" font-weight="bold" fill="#64748b" letter-spacing="3">
+    GITHUB
+  </text>
+  
+  <!-- Stats boxes -->
+  <g>
+    <rect x="380" y="415" width="130" height="35" rx="5" fill="#8b5cf6" opacity="0.9">
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="445" y="437" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="white" letter-spacing="1">
+      PROFILE VIEWS
+    </text>
+    
+    <rect x="520" y="415" width="100" height="35" rx="5" fill="#06b6d4" opacity="0.9">
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="570" y="437" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="white" letter-spacing="1">
+      0 FOLLOWERS
+    </text>
+  </g>
 </svg>
